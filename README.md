@@ -1,7 +1,10 @@
 # [Sewise Subtitles](http://player.sewise.com/) 
 
 ![Screenshot](https://github.com/jackzhang1204/sewise-subtitles/raw/master/sewise_subtitles.jpg)
-###Sewise Subtitles是基于Sewise Player播放驱动的字幕滚动插件，支持Flash与HTML5两种模式的时间驱动。
+
+## What is Sewise Subtitles?
+
+###Sewise Subtitles是基于Sewise Player播放驱动的字幕滚动插件，它支持Flash与HTML5两种播放模式的时间驱动。
 
 ###Demos:
 * [普通嵌入](http://jackzhang1204.github.io/sewise/sewise_subtitles/test.html)
